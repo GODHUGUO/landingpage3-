@@ -762,9 +762,14 @@ h3{
 
 @media(max-width: 769px){
 
+  .section4{
+  
 
 
-
+  .section4part{ 
+    // width:90% ;
+  }
+}
 .sect1{
  margin: 5px auto;
 border:1px solid red;
@@ -814,12 +819,22 @@ margin: 0 auto;
   .footcont{
     width:100% ;
    
-
+padding: 0 10PX;
     .liste{
  
        width:100% ;
     }
   }
+}
+
+.cl1{
+  margin-top: 20PX;
+  margin-bottom: 20PX;
+}
+
+.section7{
+  margin-top: 20PX;
+  margin-bottom: 20PX;
 }
 }
 

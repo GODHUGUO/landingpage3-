@@ -22,7 +22,7 @@
 
 <div class="buton">
 
-<button class="signin">Sign i</button>
+<button class="signin">Sign in</button>
 <button class="signup">Sign up</button>
 
 </div>
